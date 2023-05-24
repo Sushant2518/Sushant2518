@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java,Spring Boot,MySQL**
 
-- 👨‍💻 All of my projects are available at [https://Sushant2518.github.io](https://Sushant2518.github.io)
+- 👨‍💻 All of my projects are available at [https://sushant2518.github.io/](https://sushant2518.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 

@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sushant2518.io)
 <h1 align="center">Hi 👋, I'm Sushant Narvekar</h1>
 <h3 align="center">A passionate aspiring Java Backend Developer skilled in Java, Spring Boot, MySQL and also mastering in HTML,CSS, JavaScript. Looking forward to opportunities thatcan bring challeges and learnings to leverage and hone skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif";
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif";
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant2518&label=Profile%20views&color=0e75b6&style=flat" alt="sushant2518" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sushantnarveka6" target="blank"><img src="https://img.shields.io/twitter/follow/@sushantnarveka6?logo=twitter&style=for-the-badge" alt="@sushantnarveka6" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sushantnarveka6" target="blank"><img src="https://img.shields.io/twitter/follow/@sushantnarveka6?logo=twitter&style=for-the-badge" alt="@sushantnarveka6" /></a> </p>
 
 - 🌱 I’m currently learning **Java,Spring Boot,MySQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sushant2518/Sushant2518.github.io](https://github.com/Sushant2518/Sushant2518.github.io)
+- 👨‍💻 All of my projects are available at [https://Sushant2518.github.io](https://Sushant2518.github.io)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 

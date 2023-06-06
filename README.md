@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Sushant2518/Sushant2518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sushant2518.io)
+<!-- [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sushant2518.io)
 <h1 align="center">Hi 👋, I'm Sushant Narvekar</h1>
 <h3 align="center">A passionate aspiring Java Backend Developer skilled in Java, Spring Boot, MySQL and also mastering in HTML,CSS, JavaScript. Looking forward to opportunities thatcan bring challeges and learnings to leverage and hone skills.</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif";
@@ -48,3 +48,58 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant2518&show_icons=true&locale=en" alt="sushant2518" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant2518&" alt="sushant2518" /></p>
+ -->
+ 
+ 
+ 
+ 
+ 
+ [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sushant2518.io)
+<!--  
+ <div id="header" align="center">
+  <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="100"/>
+</div>
+ -->
+# Hi there 👋 I am Sushant Narvekar
+## About Me 🙋‍♂️
+A passionate aspiring Java Backend Developer skilled in Java, Spring Boot, MySQL and also mastering in HTML,CSS, JavaScript. Looking forward to opportunities thatcan bring challeges and learnings to leverage and hone skills.
+
+- LinkedIn : [https://linkedin.com/in/sushant-narvekar-46172b192](https://linkedin.com/in/sushant-narvekar-46172b192) 
+- Email: sushantnarvekar3118@gmail.com
+- Resume Drive Link: https://drive.google.com/file/d/1BHHufjS7XyVlTL-QejWVyTJxewVgrlrL/view?usp=sharing
+- Portfolio Link: [https://Sushant2518.github.io](https://Sushant2518.github.io)
+
+
+## My Projects 📑
+- eddie bauer (Individual Project) : [https://tranquil-piroshki-52c8e5.netlify.app/](https://tranquil-piroshki-52c8e5.netlify.app/)
+- Stylio.com (Collaborative Project) : [https://stylio.netlify.app/](https://stylio.netlify.app/)
+- StockXtreme (Individual Project) : [https://drive.google.com/drive/folders/194j97D2rKk2apEGiIADafBGMSsUGyQO8?usp=drive_link](https://drive.google.com/drive/folders/194j97D2rKk2apEGiIADafBGMSsUGyQO8?usp=drive_link)
+
+ <div id="header" align="center">
+  <img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="300"/>
+</div>
+
+
+## Languages and Tools 🔠
+
+<div style = "display:flex">
+  <img style="height:50px" src="https://brandeps.com/icon-download/G/Github-badge-icon-vector-01.svg" alt="gitHub"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/H/HTML-5-logo-vector-01.svg" alt="html"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/C/CSS-3-logo-vector-01.svg" alt="css"/>
+<img style="height:60px" src="https://brandeps.com/icon-download/J/Javascript-icon-vector-03.svg" alt="JavaScript"/>
+   <img style="height:60px"  src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java"/>
+   
+   <img style="height:50px" src="https://brandeps.com/icon-download/S/Spring-icon-vector-01.svg" alt="Spring Boot"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/M/MySQL-logo-vector-01.svg" alt="MySQL"/>
+   <img style="height:60px" src="https://brandeps.com/logo-download/H/Hibernate-logo-vector-01.svg" alt="Hibernate"/>
+   <img style="height:50px" src="https://brandeps.com/logo-download/E/Eclipse-logo-vector-01.svg" alt="Eclipse"/>
+  <img style="height:60px" src="https://image.shutterstock.com/image-photo/stock-vector-c-language-logo-simple-and-colours-used-blue-combinations-programming-language-450w-2113921046.jpg" alt="C"/>
+  <img style="height:50px" src="https://image.shutterstock.com/image-photo/stock-vector-emblem-of-c-plus-plus-programming-language-blue-hexagon-with-the-letter-c-and-two-pluses-inside-450w-1764554240.jpg" alt="C++"/>
+ 
+</div>
+
+## Current Stats: 
+![Sushant2518's Stats](https://github-readme-stats.vercel.app/api?username=sushant2518&show_icons=true&locale=en)
+![Sushant2518's Streak](https://github-readme-streak-stats.herokuapp.com?user=Sushant2518)
+
+![Sushant2518's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sushant2518&show_icons=true&locale=en&layout=compact)

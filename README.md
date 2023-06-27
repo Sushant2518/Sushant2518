@@ -66,7 +66,7 @@ A passionate aspiring Java Backend Developer skilled in Java, Spring Boot, MySQL
 
 - LinkedIn : [https://linkedin.com/in/sushant-narvekar-46172b192](https://linkedin.com/in/sushant-narvekar-46172b192) 
 - Email: sushantnarvekar3118@gmail.com
-- Resume Drive Link: https://drive.google.com/file/d/1BHHufjS7XyVlTL-QejWVyTJxewVgrlrL/view?usp=sharing
+- Resume Drive Link: https://drive.google.com/file/d/162UIVQDrHXR1lgjUyw6H-sznlxiwaFw5/view?usp=sharing
 - Portfolio Link: [https://Sushant2518.github.io](https://Sushant2518.github.io)
 
 
